@@ -2,14 +2,14 @@
   "name": "jslessons",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://  Sokolove-Olexii.github.io/HTTP.requests-Fetch.API",
+  "homepage": "https://  Sokolove-Olexii.github.io/Test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /HTTP.requests-Fetch.API/"
+    "build": "parcel build src/*.html --public-url /Test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sokolove-Olexii/HTTP.requests-Fetch.API.git"
+    "url": "git+https://github.com/Sokolove-Olexii/Test.git"
   },
   "keywords": [],
   "author": "",
