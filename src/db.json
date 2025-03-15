@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "8602",
+      "nickname": "3",
+      "email": "3",
+      "pass": "3"
+    },
+    {
+      "id": "2f93",
+      "nickname": "3",
+      "email": "3",
+      "pass": "3"
+    },
+    {
+      "id": "93ae",
+      "nickname": "3",
+      "email": "3",
+      "pass": "3"
+    },
+    {
+      "id": "eba8",
+      "nickname": "3",
+      "email": "3",
+      "pass": "3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
